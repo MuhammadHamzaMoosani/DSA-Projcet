@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println(FindMax(new int[]{1,5,9,2,4},5));
-        System.out.println(power(2,4));
+        
         DynamicArray array=new DynamicArray<Integer>(10);
         System.out.println("Checking if array is empty:"+array.isEmpty());
         for(int i=0;i<5;i++)

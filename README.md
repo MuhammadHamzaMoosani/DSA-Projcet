@@ -1,4 +1,5 @@
-![One Click Away Logo](src/GUI/Emergency.png)
+##One Click Away
+<img src="src/GUI/Emergency.png" alt="One Click Away Logo" width="200">
 
 
 ## Motivation

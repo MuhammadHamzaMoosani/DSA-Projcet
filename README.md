@@ -1,4 +1,5 @@
-# One Click Away
+![One Click Away Logo](src/GUI/Emergency.png)
+
 
 ## Motivation
 

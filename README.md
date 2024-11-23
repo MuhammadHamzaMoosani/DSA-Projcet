@@ -1,6 +1,6 @@
 <h2 style="display: flex; align-items: center;">
   One Click Away 
-  <img src="src/GUI/Emergency.png" alt="One Click Away Logo" width="50" style="margin-left: 10px;">
+  <img src="src/GUI/Emergency.png" alt="One Click Away Logo" width="50" style="margin-left: 10px; margin-bottom:10px;">
 </h2>
 
 

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jxmapviewer2-2.0">
+    <CLASSES>
+      <root url="file://D:/DATA-1/Downloads/jxmapviewer2-2.0.jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/DATA-1/Downloads/jxmapviewer2-2.0.jar" recursive="false" />
+  </library>
+</component>

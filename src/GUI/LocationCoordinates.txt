@@ -1,0 +1,33 @@
+Clifton
+Latitude: 24.8166634
+Longitude: 67.0333332
+Saddar
+Latitude: 24.8666632
+Longitude: 67.0333332
+Gulshan-e-Iqbal
+Latitude: 24.916663
+Longitude: 67.083333
+Korangi
+Latitude: 24.7833302
+Longitude: 67.1333328
+Defence
+Latitude: 24.79754
+Longitude: 67.06776
+PECHS
+Latitude: 24.8694
+Longitude: 67.0613
+Nazimabad
+Latitude: 24.9333296
+Longitude: 67.0333332
+Karachi Airport
+Latitude: 24.90667
+Longitude: 67.16083
+Gulberg
+Latitude: 	24.945129
+Longitude: 67.069649
+New Karachi Town
+Latitude: 	24.999886
+Longitude: 67.064827
+Karsaz
+Latitude: 24.890329
+Longitude: 67.099083
